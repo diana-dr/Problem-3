@@ -66,5 +66,3 @@ def main():
     if not result:
         return False
     return True
-
-main()
